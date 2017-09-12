@@ -20,3 +20,24 @@ while creating the key you are prompted weather use passphrase when using the ke
 ## move ssh key
 
 ## use several ssh keys
+
+
+## use ssh key
+
+### with git, github
+
+in projects forlder :
+
+```git config user.email code@server.com
+```
+### in hg (mercurial)
+add to .hg/hgrc file
+
+```
+[ui]
+username = code@server.com
+```
+
+
+
+
