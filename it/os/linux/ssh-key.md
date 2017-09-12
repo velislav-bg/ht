@@ -28,7 +28,8 @@ while creating the key you are prompted weather use passphrase when using the ke
 
 in projects forlder :
 
-```git config user.email code@server.com
+```
+   git config user.email code@server.com
 ```
 ### in hg (mercurial)
 add to .hg/hgrc file
