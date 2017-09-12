@@ -12,8 +12,8 @@ by default key files are located in home folder under .ssh subfolder
    ls -al ~/.ssh
 ``` 
 
-id_rsa         - private key - keep it in save
-id_rsa.pub     - public key - upload to servers
+__id_rsa__         - private key - keep it in save
+**id_rsa.pub**     - public key - upload to servers
 
 while creating the key you are prompted weather use passphrase when using the key in the future, if you do not want to use this extra secutiry - leave passphrase empty
 
